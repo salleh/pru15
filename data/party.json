@@ -1,0 +1,506 @@
+[
+    {
+        "id": 1,
+        "name": "BARISAN NASIONAL",
+        "abbreviation": "BN",
+        "color": "#000080",
+        "type": "coalition"
+    },
+    {
+        "id": 2,
+        "name": "PARTI ISLAM SEMALAYSIA",
+        "abbreviation": "PAS",
+        "color": "#008800",
+        "type": "party"
+    },
+    {
+        "id": 3,
+        "name": "PARTI TINDAKAN DEMOKRATIK",
+        "abbreviation": "DAP",
+        "color": "#ed1c24",
+        "type": "party"
+    },
+    {
+        "id": 4,
+        "name": "BARISAN JEMAAH ISLAMIAH SE MALAYSIA",
+        "abbreviation": "BERJASA",
+        "color": "#005121",
+        "type": "party"
+    },
+    {
+        "id": 5,
+        "name": "PARTI KONGRES INDIAN MUSLIM MALAYSIA",
+        "abbreviation": "KIMMA",
+        "color": "#DE8801",
+        "type": "party"
+    },
+    {
+        "id": 6,
+        "name": "PARTI RAKYAT MALAYSIA",
+        "abbreviation": "PRM",
+        "color": "#FE8591",
+        "type": "party"
+    },
+    {
+        "id": 7,
+        "name": "PARTI REFORMASI NEGERI SARAWAK",
+        "abbreviation": "STAR",
+        "color": "#CC3399",
+        "type": "party"
+    },
+    {
+        "id": 8,
+        "name": "PARTI PUNJABI MALAYSIA",
+        "abbreviation": "PPM",
+        "color": "#CC9900",
+        "type": "party"
+    },
+    {
+        "id": 9,
+        "name": "BEBAS",
+        "abbreviation": "BEBAS",
+        "color": "#ff3fab",
+        "type": "coalition"
+    },
+    {
+        "id": 10,
+        "name": "PARTI MAJU SABAH",
+        "abbreviation": "SAPP",
+        "color": "#FBFD0B",
+        "type": "party"
+    },
+    {
+        "id": 11,
+        "name": "PARTI BARISAN INDIA SE-MALAYSIA",
+        "abbreviation": "IPF",
+        "color": "#E30300",
+        "type": "party"
+    },
+    {
+        "id": 12,
+        "name": "PARTI KEADILAN RAKYAT",
+        "abbreviation": "PKR",
+        "color": "#00adef",
+        "type": "party"
+    },
+    {
+        "id": 13,
+        "name": "PENANG FRONT PARTY",
+        "abbreviation": "PFP",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 14,
+        "name": "PARTI GENERASI BARU",
+        "abbreviation": "NEWGEN",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 15,
+        "name": "PARTI PERTUBUHAN KEBANGSAAN SABAH BERSATU",
+        "abbreviation": "USNO",
+        "color": "#361650",
+        "type": "party"
+    },
+    {
+        "id": 16,
+        "name": "PARTI RAKYAT BERSATU",
+        "abbreviation": "UPP",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 17,
+        "name": "PARTI MAKKALSAKTI MALAYSIA",
+        "abbreviation": "MMSP",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 18,
+        "name": "PARTI KESEJAHTERAAN INSAN TANAH AIR",
+        "abbreviation": "KITA",
+        "color": "#F58220",
+        "type": "party"
+    },
+    {
+        "id": 19,
+        "name": "PARTI CINTA MALAYSIA",
+        "abbreviation": "PCM",
+        "color": "#F4E50E",
+        "type": "party"
+    },
+    {
+        "id": 20,
+        "name": "PARTI PEKERJA SARAWAK",
+        "abbreviation": "SWP",
+        "color": "#FCF9A8",
+        "type": "party"
+    },
+    {
+        "id": 21,
+        "name": "PARTI SOSIALIS MALAYSIA",
+        "abbreviation": "PSM",
+        "color": "#921a1c",
+        "type": "party"
+    },
+    {
+        "id": 22,
+        "name": "PARTI KONGRES CEYLONESE MALAYSIA",
+        "abbreviation": "MCC",
+        "color": "#ed0602",
+        "type": "party"
+    },
+    {
+        "id": 23,
+        "name": "PARTI AMANAH NEGARA",
+        "abbreviation": "AMANAH",
+        "color": "#f79220",
+        "type": "party"
+    },
+    {
+        "id": 24,
+        "name": "PARTI PERPADUAN RAKYAT SABAH",
+        "abbreviation": "PPRS",
+        "color": "#ffb400",
+        "type": "party"
+    },
+    {
+        "id": 25,
+        "name": "PARTI KERJASAMA ANAK NEGERI",
+        "abbreviation": "ANAKNEGERI",
+        "color": "#bf9988",
+        "type": "party"
+    },
+    {
+        "id": 26,
+        "name": "PARTI RAKYAT GABUNGAN JAKSA PENDAMAI",
+        "abbreviation": "PEACE",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 27,
+        "name": "PARTI TENAGA RAKYAT SARAWAK",
+        "abbreviation": "TERAS",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 28,
+        "name": "PARTI KEBANGSAAN SABAH",
+        "abbreviation": "PKS",
+        "color": "#8eb26a",
+        "type": "party"
+    },
+    {
+        "id": 29,
+        "name": "PARTI SEJAHTERA ANGKATAN PERPADUAN SABAH",
+        "abbreviation": "SAPU",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 30,
+        "name": "PARTI BANSA DAYAK SARAWAK BARU",
+        "abbreviation": "PBDS",
+        "color": "#246a72",
+        "type": "party"
+    },
+    {
+        "id": 31,
+        "name": "PARTI ALTERNATIF RAKYAT ",
+        "abbreviation": "PAP",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 32,
+        "name": "PARTI CINTA SABAH",
+        "abbreviation": "PCS",
+        "color": "#fd7777",
+        "type": "party"
+    },
+    {
+        "id": 33,
+        "name": "PARTI WARISAN SABAH",
+        "abbreviation": "WARISAN",
+        "color": "#5faac3",
+        "type": "party"
+    },
+    {
+        "id": 34,
+        "name": "PARTI PRIBUMI BERSATU MALAYSIA",
+        "abbreviation": "PPBM",
+        "color": "#ff0517",
+        "type": "party"
+    },
+    {
+        "id": 35,
+        "name": "PARTI SOLIDARITI TANAH AIRKU",
+        "abbreviation": "SOLIDARITI",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 36,
+        "name": "PARTI HARAPAN RAKYAT SABAH",
+        "abbreviation": "HR",
+        "color": "#6f91be",
+        "type": "party"
+    },
+    {
+        "id": 37,
+        "name": "PARTI BUMI KENYALANG",
+        "abbreviation": "PBK",
+        "color": "#0d57e8",
+        "type": "party"
+    },
+    {
+        "id": 38,
+        "name": "PARTI IKATAN BANGSA MALAYSIA",
+        "abbreviation": "IKATAN",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 39,
+        "name": "PARTI BERSAMA MALAYSIA ",
+        "abbreviation": "MU",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 40,
+        "name": "PERTUBUHAN PERPADUAN RAKYAT KEBANGSAAN SABAH",
+        "abbreviation": "PERPADUAN",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 41,
+        "name": "PARTI DAMAI SABAH",
+        "abbreviation": "SPP",
+        "color": "#ffffff",
+        "type": "party"
+    },
+    {
+        "id": 42,
+        "name": "PAKATAN HARAPAN",
+        "abbreviation": "PH",
+        "color": "#d8232b",
+        "type": "coalition"
+    },
+    {
+        "id": 43,
+        "name": "PARTI PERTUBUHAN KEBANGSAAN MELAYU BERSATU",
+        "abbreviation": "UMNO",
+        "color": "#c00000",
+        "type": "party"
+    },
+    {
+        "id": 44,
+        "name": "PARTI PERSATUAN CINA MALAYSIA",
+        "abbreviation": "MCA",
+        "color": "#102a7e",
+        "type": "party"
+    },
+    {
+        "id": 45,
+        "name": "PARTI KONGRES INDIA MALAYSIA",
+        "abbreviation": "MIC",
+        "color": "#01a45e",
+        "type": "party"
+    },
+    {
+        "id": 46,
+        "name": "PARTI SEDAR RAKYAT SARAWAK",
+        "abbreviation": "SEDAR",
+        "color": "#7f8000",
+        "type": "party"
+    },
+    {
+        "id": 47,
+        "name": "PARTI GERAKAN RAKYAT MALAYSIA",
+        "abbreviation": "GERAKAN",
+        "color": "#16a959",
+        "type": "party"
+    },
+    {
+        "id": 48,
+        "name": "GABUNGAN PARTI SARAWAK",
+        "abbreviation": "GPS",
+        "color": "#b148d2",
+        "type": "coalition"
+    },
+    {
+        "id": 49,
+        "name": "PARTI SARAWAK BERSATU",
+        "abbreviation": "PSB",
+        "color": "#545971",
+        "type": "party"
+    },
+    {
+        "id": 50,
+        "name": "PARTI ASPIRASI RAKYAT SARAWAK",
+        "abbreviation": "ASPIRASI",
+        "color": "#58007f",
+        "type": "party"
+    },
+    {
+        "id": 51,
+        "name": "PARTI PESAKA BUMIPUTERA BERSATU SARAWAK",
+        "abbreviation": "PBB",
+        "color": "#FF0000",
+        "type": "party"
+    },
+    {
+        "id": 52,
+        "name": "SARAWAK UNITED PEOPLE’S PARTY",
+        "abbreviation": "SUPP",
+        "color": "#FF0000",
+        "type": "party"
+    },
+    {
+        "id": 53,
+        "name": "PARTI RAKYAT SARAWAK",
+        "abbreviation": "PRS",
+        "color": "#FF0000",
+        "type": "party"
+    },
+    {
+        "id": 54,
+        "name": "PARTI BUMIPUTERA PERKASA MALAYSIA",
+        "abbreviation": "PUTRA",
+        "color": "#d7c500",
+        "type": "party"
+    },
+    {
+        "id": 55,
+        "name": "PERIKATAN NASIONAL",
+        "abbreviation": "PN",
+        "color": "#003152",
+        "type": "coalition"
+    },
+    {
+        "id": 56,
+        "name": "PARTI KEMAJUAN MALAYSIA",
+        "abbreviation": "KEMAJUAN",
+        "color": "#763199",
+        "type": "party"
+    },
+    {
+        "id": 57,
+        "name": "PARTI PEJUANG TANAHAIR",
+        "abbreviation": "PEJUANG",
+        "color": "#00678a",
+        "type": "coalition"
+    },
+    {
+        "id": 58,
+        "name": "PROGRESSIVE DEMOCRATICE PARTY",
+        "abbreviation": "PDP",
+        "color": "#010042",
+        "type": "party"
+    },
+    {
+        "id": 59,
+        "name": "PARTI DEMOKRATIK PROGRESIF SARAWAK",
+        "abbreviation": "SPDP",
+        "color": "#0000fe",
+        "type": "party"
+    },
+    {
+        "id": 61,
+        "name": "DLL",
+        "abbreviation": "DLL",
+        "color": "#733223",
+        "type": "coalition"
+    },
+    {
+        "id": 65,
+        "name": "IKATAN DEMOKRATIK MALAYSIA",
+        "abbreviation": "MUDA",
+        "color": "#000000",
+        "type": "party"
+    },
+    {
+        "id": 69,
+        "name": "PARTI BANGSA MALAYSIA",
+        "abbreviation": "PBM",
+        "color": "#111139",
+        "type": "party"
+    },
+    {
+        "id": 71,
+        "name": "PAKATAN HARAPAN + MUDA",
+        "abbreviation": "PH + MUDA",
+        "color": "#d8232b",
+        "type": "coalition"
+    },
+    {
+        "id": 73,
+        "name": "PAKATAN HARAPAN (DAP)",
+        "abbreviation": "PH-DAP",
+        "color": "#d8232b",
+        "type": "party"
+    },
+    {
+        "id": 75,
+        "name": "PAKATAN HARAPAN (AMANAH)",
+        "abbreviation": "PH-AMANAH",
+        "color": "#d8232b",
+        "type": "party"
+    },
+    {
+        "id": 77,
+        "name": "PARTI PERIKATAN INDIA MUSLIM NASIONAL",
+        "abbreviation": "IMAN",
+        "color": "#ec2023",
+        "type": "party"
+    },
+    {
+        "id": 79,
+        "name": "GERAKAN TANAH AIR",
+        "abbreviation": "GTA",
+        "color": "#cd516a",
+        "type": "party"
+    },
+    {
+        "id": 81,
+        "name": "PARTI BERSATU RAKYAT SABAH",
+        "abbreviation": "PBRS",
+        "color": "#b4b571",
+        "type": "party"
+    },
+    {
+        "id": 83,
+        "name": "PARTI GABUNGAN RAKYAT SABAH",
+        "abbreviation": "GRS",
+        "color": "#0092e9",
+        "type": "party"
+    },
+    {
+        "id": 87,
+        "name": "PARTI UTAMA RAKYAT",
+        "abbreviation": "PUR",
+        "color": "#00b478",
+        "type": "party"
+    },
+    {
+        "id": 89,
+        "name": "KESEJAHTERAAN DEMOKRATIK MASYARAKAT",
+        "abbreviation": "KDM",
+        "color": "#FF0000",
+        "type": "party"
+    },
+    {
+        "id": 91,
+        "name": "PERTUBUHAN KINABALU PROGRESIF BERSATU",
+        "abbreviation": "UPKO",
+        "color": "#013e94",
+        "type": "party"
+    }
+]

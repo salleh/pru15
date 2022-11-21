@@ -1,0 +1,156 @@
+{
+    "pru14": {
+        "id": 1,
+        "start_at": "2022-11-19T00:00:00.000000Z",
+        "start_text": "HARI MENGUNDI PRU15",
+        "end_at": "2022-11-20T09:00:00.000000Z",
+        "end_text": "HARI MENGUNDI PRU15",
+        "name": "PILIHAN RAYA UMUM KE-14",
+        "compare_with": 11,
+        "season_type": "pru",
+        "active": false,
+        "realtime": false,
+        "meta": {
+            "meta_title": "Pilihan Raya Umum Malaysia Ke-14",
+            "meta_description": "Pada 2022, rakyat Malaysia berumur 18 tahun  ke atas yang layak bakal keluar mengundi bagi Pilihanraya Umum ke-14 (PRU14)",
+            "meta_keywords": "Malaysia Memilih, Pilihanraya Umum ke-15, PRU15, Perdana Menteri, Najib Razak, Dewan Undangan Negeri, DUN, Parlimen, Perlembagaan, Putrajaya, Sabah, Sarawak, Wilayah Persekutuan, Perak, Melaka, Pulau Pinang, Johor, Kelantan, Terengganu, Perlis, Kedah",
+            "og_url": "https://pru.astroawani.com/pru14",
+            "og_title": "Pilihan Raya Umum Malaysia Ke-14",
+            "og_description": "Pada 2022, rakyat Malaysia berumur 18 tahun  ke atas yang layak bakal keluar mengundi bagi Pilihanraya Umum ke-14 (PRU14)",
+            "og_image": "i4UlCm0-u2ulg85DJVd2k.png",
+            "slug": "pru14"
+        }
+    },
+    "prnsarawak2016": {
+        "id": 2,
+        "start_at": "2016-05-07T01:00:00.000000Z",
+        "start_text": "Tarikh Pengundian Mula",
+        "end_at": "2016-05-07T12:00:00.000000Z",
+        "end_text": "Tarikh Pengundian Akhir",
+        "name": "PRN SARAWAK Ke-11",
+        "compare_with": 1,
+        "season_type": "prn",
+        "active": false,
+        "realtime": false,
+        "meta": {
+            "meta_title": "Pilihan Raya Negeri Sarawak Ke-11",
+            "meta_description": "Berikut adalah keputusan terkini, penuh dan rasmi Suruhanjaya Pilihan Raya (SPR) bagi Pilihanraya Negeri Sarawak ke-11 (PRN Sarawak).",
+            "meta_keywords": "prn sarawak, prn sarawak 2016, sarawak memilih",
+            "og_url": "https://pru.astroawani.com/prnsarawak2016",
+            "og_title": "Pilihan Raya Negeri Sarawak Ke-11 (2016)",
+            "og_description": "Berikut adalah keputusan terkini, penuh dan rasmi Suruhanjaya Pilihan Raya (SPR) bagi Pilihanraya Negeri Sarawak ke-11 (PRN Sarawak).",
+            "og_image": "LPKveeZHMJ1sOpHmBYTNp.png",
+            "slug": "prnsarawak2016"
+        }
+    },
+    "prnsarawak": {
+        "id": 3,
+        "start_at": "2021-12-17T23:30:00.000000Z",
+        "start_text": "Hari Pengundian",
+        "end_at": "2021-12-18T09:00:00.000000Z",
+        "end_text": "Masa Pengundian Tamat",
+        "name": "PRN SARAWAK Ke-12",
+        "compare_with": 2,
+        "season_type": "prn",
+        "active": false,
+        "realtime": true,
+        "meta": {
+            "meta_title": "Pilihan Raya Negeri Sarawak Ke-12",
+            "meta_description": "Berikut adalah keputusan terkini, penuh dan rasmi Suruhanjaya Pilihan Raya (SPR) bagi Pilihanraya Negeri Sarawak ke-12 (PRN Sarawak).",
+            "meta_keywords": "prn sarawak, sarawak memilih, spr sarawak, prn sarawak 2021, senarai calon prn sarawak, parti sarawak bersatu, psb sarawak, senarai calon prn sarawak 2021, gps sarawak, calon prn sarawak 2021, pilihan raya sarawak, dun sarawak, gabungan parti sarawak,",
+            "og_url": "https://pru.astroawani.com/prnsarawak",
+            "og_title": "Pilihan Raya Negeri Sarawak Ke-12",
+            "og_description": "Berikut adalah keputusan terkini, penuh dan rasmi Suruhanjaya Pilihan Raya (SPR) bagi Pilihanraya Negeri Sarawak ke-12 (PRN Sarawak).",
+            "og_image": "NirpA21-y8sBtqSXU9jPr.png",
+            "slug": "prnsarawak"
+        }
+    },
+    "prnjohor": {
+        "id": 5,
+        "start_at": "2022-03-09T00:00:00.000000Z",
+        "start_text": "Hari Pengundian",
+        "end_at": "2022-03-09T10:00:00.000000Z",
+        "end_text": "Masa Pengundian Tamat",
+        "name": "PRN Johor 2022",
+        "compare_with": 7,
+        "season_type": "prn",
+        "active": false,
+        "realtime": true,
+        "meta": {
+            "meta_title": "Pilihan Raya Negeri Johor (PRN Johor) 2022",
+            "meta_description": "Berikut adalah keputusan terkini, penuh dan rasmi Suruhanjaya Pilihan Raya (SPR) bagi Pilihan Raya Negeri Johor 2022 (PRN Johor)",
+            "meta_keywords": "prn johor, johor memilih, spr johor, prn johor 2022, senarai calon prn johor",
+            "og_url": "https://pru.astroawani.com/prnjohor",
+            "og_title": "Pilihan Raya Negeri Johor (PRN Johor) 2022",
+            "og_description": "Berikut adalah keputusan terkini, penuh dan rasmi Suruhanjaya Pilihan Raya (SPR) bagi Pilihanraya Negeri Johor 2022 (PRN Johor).",
+            "og_image": "pCxaXnh_dfIG2LbT8xY-V.png",
+            "slug": "prnjohor"
+        }
+    },
+    "prujohor2018": {
+        "id": 7,
+        "start_at": "2018-04-26T02:56:54.000000Z",
+        "start_text": "Hari Pengundian",
+        "end_at": "2018-04-26T02:56:54.000000Z",
+        "end_text": "Tarkih Pengundian (Tamat)",
+        "name": "PRU Johor 2018",
+        "compare_with": 5,
+        "season_type": "prn",
+        "active": false,
+        "realtime": false,
+        "meta": {
+            "meta_title": "PRU (Negeri Johor) 2018",
+            "meta_description": "Berikut adalah keputusan terkini, penuh dan rasmi Suruhanjaya Pilihan Raya (SPR) negeri Johor semasa PRU 2018",
+            "meta_keywords": "prn johor, johor memilih, spr johor, prn johor 2022, senarai calon prn johor",
+            "og_url": "https://pru.astroawani.com/prujohor2018",
+            "og_title": "PRU (Negeri Johor) 2018",
+            "og_description": "Berikut adalah keputusan terkini, penuh dan rasmi Suruhanjaya Pilihan Raya (SPR) negeri Johor semasa PRU 2018",
+            "og_image": "6jDaipum71KaGDuhk6-sS.png",
+            "slug": "prujohor2018"
+        }
+    },
+    "prntesting": {
+        "id": 9,
+        "start_at": "2022-11-17T00:00:00.000000Z",
+        "start_text": "Hari Pengundian",
+        "end_at": "2022-11-17T22:00:00.000000Z",
+        "end_text": "Hari Pengundian (Tamat)",
+        "name": "PRU Testing",
+        "compare_with": null,
+        "season_type": "pru",
+        "active": false,
+        "realtime": true,
+        "meta": {
+            "meta_title": "Pilihan Raya Umum Malaysia",
+            "meta_description": "Dapatkan keputusan rasmi dan tidak rasmi terkini Pilihan Raya Umum ke-15 (PRU15) di sini. Ikuti Lapor Langsung, Live TV dan berita terkini PRU15 hanya di Astro AWANI.",
+            "meta_keywords": "PRU",
+            "og_url": "https://pru.astroawani.com",
+            "og_title": "Pilihan Raya Umum Malaysia",
+            "og_description": "Dapatkan keputusan rasmi dan tidak rasmi terkini Pilihan Raya Umum ke-15 (PRU15) di sini. Ikuti Lapor Langsung, Live TV dan berita terkini PRU15 hanya di Astro AWANI.",
+            "og_image": "yEOkiunhBcGk-4qIVU14q.png",
+            "slug": "prntesting"
+        }
+    },
+    "pru15": {
+        "id": 11,
+        "start_at": "2022-11-19T00:00:00.000000Z",
+        "start_text": "HARI MENGUNDI PRU15",
+        "end_at": "2022-11-19T10:00:00.000000Z",
+        "end_text": "Masa Pengundian Tamat",
+        "name": "PILIHAN RAYA UMUM KE-15",
+        "compare_with": 1,
+        "season_type": "pru",
+        "active": true,
+        "realtime": false,
+        "meta": {
+            "meta_title": "Pilihan Raya Umum Malaysia Ke-15",
+            "meta_description": "Dapatkan keputusan rasmi dan tidak rasmi terkini Pilihan Raya Umum ke-15 (PRU15) di sini. Ikuti Lapor Langsung, Live TV dan berita terkini PRU15 hanya di Astro AWANI.",
+            "meta_keywords": "Keputusan Pilihan Raya, Keputusan PRU15, Malaysia Memilih, Pilihanraya Umum ke-15, PRU15, Perdana Menteri, Ismail Sabri, General Elections, GE15, pru15 calon , senarai calon , pru , penamaan calon , calon parlimen pru15 , pru 15 , pru15 malaysia , calon p",
+            "og_url": "https://pru.astroawani.com",
+            "og_title": "Pilihan Raya Umum Malaysia Ke-15",
+            "og_description": "Dapatkan keputusan rasmi dan tidak rasmi terkini Pilihan Raya Umum ke-15 (PRU15) di sini. Ikuti Lapor Langsung, Live TV dan berita terkini PRU15 hanya di Astro AWANI.",
+            "og_image": "28325b33aX5OD4hCN3HKb.png",
+            "slug": "pru15"
+        }
+    }
+}
